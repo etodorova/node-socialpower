@@ -1,5 +1,5 @@
 # Social Power - the game -
-
+[ET]
 the repo of project related to collaborative learn & do effort, been
 held in [varnalab](http://varnalab.org) during 01.2014.
 
